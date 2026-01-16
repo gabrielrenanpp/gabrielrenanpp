@@ -1,27 +1,34 @@
-## Hi there 👋
-# I'm Gabriel
+### Hello,I'm Gabriel👋
+####  Economist, <br> Business Intelligence and Data Analysis 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!--
-**gabrielrenanpp/gabrielrenanpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
 
-Here are some ideas to get you started:
+- 🔭 I Love Data Analyst 
+- 🏠 I live in Pirangi-SP
+- 🌱 I'm Learnig everything About Data analyst
+- 🤓 Aspiring Data Analyst
+<br>
+Main tools:
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+  Where you can find me:
+<div style="display: inline_block">
+
+  <a href="https://www.linkedin.com/in/gabriel-renan-560797393/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  </a>
+  <a href="https://www.instagram.com/gabrielrenaan/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
+  </a>
+</div>
+
+
