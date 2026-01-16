@@ -63,3 +63,9 @@ Rewarding high-performing sellers
 Implementing performance improvement actions for underperforming sellers
 
 Ultimately, this analysis contributes to increasing company revenue and profitability by enabling data-driven decision-making.
+<br>
+<br>
+
+<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/README.md" target="_blank">Click here</a> to access the GitHub repository.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTc2OGJjYWYtMDBiNS00ZWEwLWIzOTItYzM5MWM3ZWJkOWUyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Click here</a> and access the solution developed for AdventureWorks.
