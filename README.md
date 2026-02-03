@@ -37,35 +37,4 @@ Main tools:
 
 <br>
 
-## Portfolio and Main Projects
-### Analysis of Best and Worst Sellers – AdventureWorks
 
-<img align="right" width="500" src="https://github.com/gabrielrenanpp/AdventureWorksPortifolio/blob/main/Imagens/Captura%20de%20tela%202026-01-16%20101302.png?raw=true">
-Project developed to analyze the best and worst sellers in the Reseller Sales channel of AdventureWorks.
-The analysis was performed using SQL for data extraction and transformation and Power BI for data visualization and insights generation.
-
-Main challenges addressed:
-
-Developing advanced SQL queries to retrieve and structure sales data
-
-Applying descriptive statistics to understand which products were sold by each seller
-
-Creating ranking analyses to identify top and bottom performers
-
-Measuring and comparing sales performance across sellers
-
-Through this project, I was able to answer a business question simulated by management, which aimed to identify the top 5 and bottom 5 sellers in Reseller Sales.
-
-The results support strategic decisions such as:
-
-Rewarding high-performing sellers
-
-Implementing performance improvement actions for underperforming sellers
-
-Ultimately, this analysis contributes to increasing company revenue and profitability by enabling data-driven decision-making.
-<br>
-<br>
-
-<a href="https://github.com/gabrielrenanpp/AdventureWorksPortifolio/blob/main/README.md" target="_blank">Click here</a> to access the GitHub repository.
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNTc2OGJjYWYtMDBiNS00ZWEwLWIzOTItYzM5MWM3ZWJkOWUyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Click here</a> and access the solution developed for AdventureWorks.
