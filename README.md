@@ -8,7 +8,7 @@ About Me:
 - 🔭 I Love Data Analyst 
 - 🏠 I live in Pirangi-SP
 - 🌱 I'm Learnig everything About Data analyst
-- 🤓 Aspiring Data Analyst
+- 🤓 Data Analyst
 <br>
 
 Main tools:
